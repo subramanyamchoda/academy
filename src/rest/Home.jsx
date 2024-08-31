@@ -9,7 +9,7 @@ const Home = () => {
             id: 1,
             title: "Free Online Courses",
             info: "Access a variety of high-quality courses for free.",
-            img: "assrets/images/education.png"  // Corrected image path
+            img: "assets/images/education.png"  // Corrected image path
         },
         {
             id: 2,
